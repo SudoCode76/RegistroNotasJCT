@@ -1,0 +1,10 @@
+.git
+node_modules
+vendor/*
+!vendor/livewire/
+vendor/livewire/*
+!vendor/livewire/flux/
+vendor/livewire/flux/*
+!vendor/livewire/flux/dist/
+.env
+storage/logs/*
